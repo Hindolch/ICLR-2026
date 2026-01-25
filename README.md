@@ -1,3 +1,5 @@
+MY CURRENT THOUGHTS REGARDING THE EXPERIMENTS
+
 Orderliness & The Mental Number Line: Mechanistic Interpretability
 Activation patching: Can you restore orderliness in deep layers by patching in activations from shallow layers?
 Causal mediation: Which attention heads or MLP neurons are responsible for maintaining/destroying orderliness?
