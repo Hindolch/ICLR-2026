@@ -1,7 +1,7 @@
 MY CURRENT THOUGHTS REGARDING THE EXPERIMENTS
 
 Orderliness & The Mental Number Line: Mechanistic Interpretability
-Activation patching: Can you restore orderliness in deep layers by patching in activations from shallow layers?
+Activation patching: Can restoration of orderliness in deep layers by patching in activations from shallow layers possible?
 Causal mediation: Which attention heads or MLP neurons are responsible for maintaining/destroying orderliness?
 Mechanistic circuit tracing: Use activation patching + attention head attribution to identify which components maintain orderliness. Build a "circuit diagram" of the mental number line.
 
